@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 17 22:10:01 2018
-@author: Caroline Pacheco do E. Silva
-"""
-
 import os
 import cv2
 from xml.dom.minidom import parseString
